@@ -49,7 +49,7 @@ This app  is created as part of the Udacity Nanodegree "Front End Web Developmen
 ## Data from node server
 
 ```
-$ git clone https://sunnypaul393.github.io/Restuarant-Review-App-Udacity.git
+$ git clone https://suparnapaul393.github.io/Udacity-FEND-RestuarantReviewApp1.git
 $ cd mws-restaurant-stage-3
 $ npm i
 $ npm i sails -g
